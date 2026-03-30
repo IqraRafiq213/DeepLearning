@@ -1,3 +1,6 @@
+This exercise is based on and inspired by the recurrent neural networks materials from the MADS Machine Learning course by Rao:
+https://github.com/raoulg/MADS-MachineLearning-course/tree/master/notebooks/3_recurrent_networks
+
 # Gesture Recognition with Recurrent Neural Networks
 
 Classifying arm gestures from smartwatch accelerometer data using PyTorch RNNs. Built as part of a machine learning course, this project experiments with GRU, LSTM, and Conv1d+GRU architectures and uses Hyperopt to automate hyperparameter search.
